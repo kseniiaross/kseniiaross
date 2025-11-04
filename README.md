@@ -4,4 +4,4 @@
 </p>
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,html,css,tailwind,nodejs,express,python,django,postgres,mongodb,docker,git,aws,nextjs&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,html,css,tailwind,nodejs,python,django,postgres,mongodb,docker,git,aws,nextjs&perline=9)](https://skillicons.dev)
