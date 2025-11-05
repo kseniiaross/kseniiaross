@@ -5,3 +5,7 @@
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,html,css,tailwind,nodejs,python,django,postgres,mongodb,docker,git,aws&perline=15)](https://skillicons.dev)
+
+
+
+# PROGECTS 
