@@ -3,8 +3,9 @@
   <img src="https://github.com/kseniiaross/kseniiaross/raw/main/assets/banner.jpg" width="100%" alt="Kseniia Rostovskaia Banner"/>
 </p>
 
-## Skills
+<h2 align="center"><b>RECENT BUILDS</b></h2>
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,html,css,tailwind,nodejs,python,django,postgres,mongodb,docker,git,aws&perline=15)](https://skillicons.dev)
+
 
 
 <h2 align="center"><b>RECENT BUILDS</b></h2>
