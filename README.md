@@ -12,3 +12,12 @@
 <h2 align="center"><b>RECENT BUILDS</b></h2>
 
 <h3 align="center"><b>TRESSE Online Store </b></h3>
+
+<h3 align="center"><b>Real-Time Chat App  </b></h3>
+
+<h3 align="center"><b>Personal Dashboard   </b></h3>
+
+<h3 align="center"><b>Task Management App    </b></h3>
+
+
+
