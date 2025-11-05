@@ -7,5 +7,4 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,html,css,tailwind,nodejs,python,django,postgres,mongodb,docker,git,aws&perline=15)](https://skillicons.dev)
 
 
-
-                                                  # PROJECTS 
+<h2 align="center"><b>RECENT BUILDS</b></h2>
