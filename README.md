@@ -13,11 +13,11 @@
 
 <h3 align="center"><b>TRESSE Online Store </b></h3>
 
-<h3 align="center"><b>Real-Time Chat App  </b></h3>
+<h3 align="center"><b>Real-Time Chat App | Live Link </b></h3>
 
-<h3 align="center"><b>Personal Dashboard   </b></h3>
+<h3 align="center"><b>Personal Dashboard | Live Link </b></h3>
 
-<h3 align="center"><b>Task Management App    </b></h3>
+<h3 align="center"><b>Task Management App | Live Link    </b></h3>
 
 
 
