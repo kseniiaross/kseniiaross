@@ -13,6 +13,10 @@
 
 <h3 align="center"><b>TRESSE Online Store </b></h3>
 
+<h4 align="center"><b>Built a responsive online store with secure checkout, order APIs, and accessible UI compliant with WCAG 2.1
+standards.</b></h4>
+
+
 <h3 align="center"><b>Real-Time Chat App | Live Link </b></h3>
 
 <h4 align="center"><b>This is a real-time chat application built using Flask-SocketIO for the backend and React with TypeScript for the frontend. The project supports real-time communication via WebSockets, allowing users to send and receive messages in a chatroom in real-time. </b></h4>
