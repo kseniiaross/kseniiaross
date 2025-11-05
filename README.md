@@ -4,6 +4,7 @@
 </p>
 
 <h2 align="center"><b>SKILLS</b></h2>
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,html,css,tailwind,nodejs,python,django,postgres,mongodb,docker,git,aws&perline=15)](https://skillicons.dev)
 
 
