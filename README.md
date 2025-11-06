@@ -29,7 +29,7 @@ standards.</b></h4>
 </h3>
 
 <h4 align="center"><b>Welcome to Pokémon Adventure, an interactive web application that allows you to explore the world of Pokémon. This application provides detailed information about your favorite Pokémon, including their abilities, types, and evolutionary paths. Additionally, you can simulate battles to see how your Pokémon perform in combat. </b></h4>
-<img src="https://github.com/kseniiaross/Pokemon-Adventure/blob/main/images/demo.gif?raw=true"
+<img src="https://github.com/kseniiaross/kseniiaross/raw/main/assets/pokemon_demo.gif"
          alt="Pokémon Adventure Demo"
          width="540"
          style="max-width:100%; height:auto; display:block; margin:0 auto;" />
