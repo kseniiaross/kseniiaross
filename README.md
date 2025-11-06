@@ -20,10 +20,10 @@ standards.</b></h4>
   <b>
     Pokémon Adventure | 
     <a href="https://pokemonadventure.vercel.app" target="_blank">
-      Live Link |
-    </a> 
+      Live Link 
+    </a> |
      <a href="https://github.com/kseniiaross/Pokemon-Adventure.git" target="_blank">
-      Live Link
+      GitHub Link
     </a>
   </b>
 </h3>
