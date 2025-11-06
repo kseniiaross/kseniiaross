@@ -19,14 +19,14 @@ standards.</b></h4>
 <h3 align="center">
   <b>
     Pokémon Adventure | 
-    <a href="https://pokemon-adventure-sigma.vercel.app" target="_blank">
+    <a href="pokemonadventure.vercel.app" target="_blank">
       Live Link
     </a>
   </b>
 </h3>
 
 
-<h4 align="center"><b>Welcome to PokeAdventure, an interactive web application that allows you to explore the world of Pokémon. This application provides detailed information about your favorite Pokémon, including their abilities, types, and evolutionary paths. Additionally, you can simulate battles to see how your Pokémon perform in combat. </b></h4>
+<h4 align="center"><b>Welcome to Pokémon Adventure, an interactive web application that allows you to explore the world of Pokémon. This application provides detailed information about your favorite Pokémon, including their abilities, types, and evolutionary paths. Additionally, you can simulate battles to see how your Pokémon perform in combat. </b></h4>
 
 <h3 align="center"><b>Real-Time Chat App | Live Link </b></h3>
 
