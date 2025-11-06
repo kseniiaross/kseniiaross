@@ -24,6 +24,10 @@ standards.</b></h4>
     </a> |
      <a href="https://github.com/kseniiaross/Pokemon-Adventure.git" target="_blank">
       GitHub Link
+       <img src="images/demo.gif" 
+         alt="PokeAdventure Demo" 
+         width="540"
+         style="max-width:100%; height:auto; display:block; margin:0 auto;" />
     </a>
   </b>
 </h3>
