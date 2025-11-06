@@ -29,11 +29,12 @@ standards.</b></h4>
 </h3>
 
 <h4 align="center"><b>Welcome to Pokémon Adventure, an interactive web application that allows you to explore the world of Pokémon. This application provides detailed information about your favorite Pokémon, including their abilities, types, and evolutionary paths. Additionally, you can simulate battles to see how your Pokémon perform in combat. </b></h4>
-<img src="https://github.com/kseniiaross/kseniiaross/raw/main/assets/pokemon_demo.gif"
-         alt="Pokémon Adventure Demo"
-         width="540"
-         style="max-width:100%; height:auto; display:block; margin:0 auto;" />
-
+<p align="center">
+  <img 
+    src="https://github.com/kseniiaross/kseniiaross/raw/main/assets/pokemon_demo.gif"
+    alt="Pokémon Adventure Demo"
+    width="540" />
+</p>
 <h3 align="center"><b>Real-Time Chat App | Live Link </b></h3>
 
 <h4 align="center"><b>This is a real-time chat application built using Flask-SocketIO for the backend and React with TypeScript for the frontend. The project supports real-time communication via WebSockets, allowing users to send and receive messages in a chatroom in real-time. </b></h4>
