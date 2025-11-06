@@ -19,7 +19,7 @@ standards.</b></h4>
 <h3 align="center">
   <b>
     Pokémon Adventure | 
-    <a href="pokemonadventure.vercel.app" target="_blank">
+    <a href="https://pokemonadventure.vercel.app" target="_blank">
       Live Link
     </a>
   </b>
