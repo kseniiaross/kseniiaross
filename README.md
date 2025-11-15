@@ -35,7 +35,13 @@ standards.</b></h4>
     alt="Pokémon Adventure Demo"
     width="540" />
 </p>
-<h3 align="center"><b>Real-Time Chat App | Live Link </b></h3>
+<h3 align="center"><b>Real-Time Chat App |
+  <a href="https://pokemonadventure.vercel.app" target="_blank">
+      Live Link 
+    </a> |
+     <a href="https://github.com/kseniiaross/Real-Time-Chat-App.git" target="_blank">
+      GitHub Link
+    </a>
 
 <h4 align="center"><b>A real-time communication system using Flask-SocketIO (Python) and a TypeScript-based React client.
 Designed for high-speed WebSocket messaging, it enables persistent chat rooms, instant message updates, client-side state persistence, and a clean, dynamic UI optimized for responsiveness. </b></h4>
