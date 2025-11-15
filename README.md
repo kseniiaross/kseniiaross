@@ -37,7 +37,8 @@ standards.</b></h4>
 </p>
 <h3 align="center"><b>Real-Time Chat App | Live Link </b></h3>
 
-<h4 align="center"><b>This is a real-time chat application built using Flask-SocketIO for the backend and React with TypeScript for the frontend. The project supports real-time communication via WebSockets, allowing users to send and receive messages in a chatroom in real-time. </b></h4>
+<h4 align="center"><b>A real-time communication system using Flask-SocketIO (Python) and a TypeScript-based React client.
+Designed for high-speed WebSocket messaging, it enables persistent chat rooms, instant message updates, client-side state persistence, and a clean, dynamic UI optimized for responsiveness. </b></h4>
 
 
 
