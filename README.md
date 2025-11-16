@@ -35,6 +35,8 @@ standards.</b></h4>
     alt="Pokémon Adventure Demo"
     width="540" />
 </p>
+
+
 <h3 align="center"><b>Real-Time Chat App |
   <a href="https://pokemonadventure.vercel.app" target="_blank">
       Live Link 
@@ -44,7 +46,14 @@ standards.</b></h4>
     </a>
 
 <h4 align="center"><b>A modern real-time chat platform built with Flask-SocketIO (backend) and React + TypeScript (frontend).
-Supports instant messaging, custom rooms, reactions, and a polished animated UI. </b></h4>
+Supports instant messaging, custom rooms, reactions, and a polished animated UI.</b></h4>
+<p align="center">
+<img 
+    src="https://github.com/kseniiaross/kseniiaross/raw/main/assets/realchat.gif"
+    alt="Real Chat Demo"
+    width="540" />
+</p>
+
 
 
 
