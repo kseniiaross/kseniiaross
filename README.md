@@ -43,8 +43,8 @@ standards.</b></h4>
       GitHub Link
     </a>
 
-<h4 align="center"><b>A real-time communication system using Flask-SocketIO (Python) and a TypeScript-based React client.
-Designed for high-speed WebSocket messaging, it enables persistent chat rooms, instant message updates, client-side state persistence, and a clean, dynamic UI optimized for responsiveness. </b></h4>
+<h4 align="center"><b>A modern real-time chat platform built with Flask-SocketIO (backend) and React + TypeScript (frontend).
+Supports instant messaging, custom rooms, reactions, and a polished animated UI. </b></h4>
 
 
 
