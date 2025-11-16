@@ -50,7 +50,7 @@ standards.</b></h4>
 Supports instant messaging, custom rooms, reactions, and a polished animated UI.</b></h4>
 <p align="center">
 <img 
-    src="https://github.com/kseniiaross/kseniiaross/raw/main/assets/realchat.gif"
+    src="https://github.com/kseniiaross/kseniiaross/raw/main/assets/realchat1.gif"
     alt="Real Chat Demo"
     width="540" />
 </p>
