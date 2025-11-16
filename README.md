@@ -39,7 +39,7 @@ standards.</b></h4>
 
 
 <h3 align="center"><b>Real-Time Chat App |
-  <a href="chat-appsigma.vercel.app" target="_blank">
+  <a href="https://chat-appsigma.vercel.app" target="_blank">
       Live Link 
     </a> |
      <a href="https://github.com/kseniiaross/Real-Time-Chat-App.git" target="_blank">
