@@ -16,25 +16,6 @@
 <h4 align="center"><b>Built a responsive online store with secure checkout, order APIs, and accessible UI compliant with WCAG 2.1
 standards.</b></h4>
 
-<h3 align="center">
-  <b>
-    Pokémon Adventure | 
-    <a href="https://pokemonadventure.vercel.app" target="_blank">
-      Live Link 
-    </a> |
-     <a href="https://github.com/kseniiaross/Pokemon-Adventure.git" target="_blank">
-      GitHub Link
-    </a>
-  </b>
-</h3>
-
-<h4 align="center"><b>Welcome to Pokémon Adventure, an interactive web application that allows you to explore the world of Pokémon. This application provides detailed information about your favorite Pokémon, including their abilities, types, and evolutionary paths. Additionally, you can simulate battles to see how your Pokémon perform in combat. </b></h4>
-<p align="center">
-  <img 
-    src="https://github.com/kseniiaross/kseniiaross/raw/main/assets/pokemon_demo.gif"
-    alt="Pokémon Adventure Demo"
-    width="540" />
-</p>
 
 
 
@@ -55,7 +36,25 @@ Supports instant messaging, custom rooms, reactions, and a polished animated UI.
     width="540" />
 </p>
 
+<h3 align="center">
+  <b>
+    Pokémon Adventure | 
+    <a href="https://pokemonadventure.vercel.app" target="_blank">
+      Live Link 
+    </a> |
+     <a href="https://github.com/kseniiaross/Pokemon-Adventure.git" target="_blank">
+      GitHub Link
+    </a>
+  </b>
+</h3>
 
+<h4 align="center"><b>Welcome to Pokémon Adventure, an interactive web application that allows you to explore the world of Pokémon. This application provides detailed information about your favorite Pokémon, including their abilities, types, and evolutionary paths. Additionally, you can simulate battles to see how your Pokémon perform in combat. </b></h4>
+<p align="center">
+  <img 
+    src="https://github.com/kseniiaross/kseniiaross/raw/main/assets/pokemon_demo.gif"
+    alt="Pokémon Adventure Demo"
+    width="540" />
+</p>
 
 
 <h3 align="center"><b>Personal Dashboard | Live Link </b></h3>
