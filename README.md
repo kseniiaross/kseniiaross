@@ -57,7 +57,6 @@ Supports instant messaging, custom rooms, reactions, and a polished animated UI.
 </p>
 
 
-<h3 align="center"><b>Personal Dashboard | Live Link </b></h3>
 
 <h3 align="center"><b>Task Management App | Live Link    </b></h3>
 
