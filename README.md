@@ -11,8 +11,8 @@
 
 <h2 align="center"><b>RECENT BUILDS</b></h2>
 
-<h3 align="center"><b>TRESSE Online Store </b></h3>
-<a href="https://chat-appsigma.vercel.app" target="_blank">
+<h3 align="center"><b>TRESSE Online Store |
+  <a href="https://chat-appsigma.vercel.app" target="_blank">
       Live Link 
     </a> |
      <a href="https://github.com/kseniiaross/Real-Time-Chat-App.git" target="_blank">
@@ -32,7 +32,7 @@ standards.</b></h4>
      <a href="https://github.com/kseniiaross/Real-Time-Chat-App.git" target="_blank">
       GitHub Link
     </a>
-
+ </b></h3>
 <h4 align="center"><b>A modern real-time chat platform built with Flask-SocketIO (backend) and React + TypeScript (frontend).
 Supports instant messaging, custom rooms, reactions, and a polished animated UI.</b></h4>
 <p align="center">
