@@ -5,7 +5,8 @@
 
 <h2 align="center"><b>SKILLS</b></h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,html,css,tailwind,nodejs,python,django,postgres,mongodb,docker,git,aws&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,sass,vue,angular,nodejs,python,django,postgres,mongodb,docker,git,aws&perline=10)](https://skillicons.dev)
+
 
 
 
