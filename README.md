@@ -14,7 +14,7 @@
 <h2 align="center"><b>RECENT BUILDS</b></h2>
 
 <h3 align="center"><b>TRESSE Online Store |
-  <a href="https://chat-appsigma.vercel.app" target="_blank">
+  <a href="https://www.tressehandmade.com" target="_blank">
       Live Link 
     </a> 
 
