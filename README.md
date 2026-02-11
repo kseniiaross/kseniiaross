@@ -19,8 +19,7 @@
     </a> 
  </b></h3>   
 
-<h4 align="center"><b>Built a responsive online store with secure checkout, order APIs, and accessible UI compliant with WCAG 2.1
-standards.</b></h4>
+<h4 align="center"><b>Built a responsive online knitwear store with secure checkout, robust order APIs, and a clean, user-friendly interface compliant with WCAG 2.1 accessibility standards. Designed to deliver a smooth, intuitive shopping experience across devices.</b></h4>
 <p align="center">
 <img 
     src="https://github.com/kseniiaross/kseniiaross/raw/main/assets/tresse-onlie-store.gif"
