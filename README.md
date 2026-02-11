@@ -21,6 +21,12 @@
 
 <h4 align="center"><b>Built a responsive online store with secure checkout, order APIs, and accessible UI compliant with WCAG 2.1
 standards.</b></h4>
+<p align="center">
+<img 
+    src="https://github.com/kseniiaross/kseniiaross/raw/main/assets/tresse-onlie-store.gif"
+    alt="Tresse Demo"
+    width="540" />
+</p>
 
 
 
