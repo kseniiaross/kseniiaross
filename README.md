@@ -19,7 +19,8 @@
     </a> 
  </b></h3>   
 
-<h4 align="center"><b>Developed and deployed a production-ready knitwear e-commerce platform for a real brand, featuring secure checkout, scalable order APIs, and a clean, accessibility-first UI compliant with WCAG 2.1 standards. Designed to deliver a seamless and intuitive shopping experience across devices.</b></h4>
+<h4 align="center">
+  <b>Architected and brought to life a production-grade knitwear e-commerce platform for a real brand, combining secure checkout, scalable backend APIs, and a refined, minimalist interface designed for effortless shopping. Built with accessibility (WCAG 2.1), performance, and clean user experience at its core.</b></h4>
 <p align="center">
 <img 
     src="https://github.com/kseniiaross/kseniiaross/raw/main/assets/tresse-onlie-store.gif"
