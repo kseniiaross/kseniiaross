@@ -11,6 +11,23 @@
 
 <h2 align="center"><b>RECENT BUILDS</b></h2>
 
+
+<h3 align="center"><b>KFursenko Candles |
+  <a href="https://www.kfcandle.com" target="_blank">
+      Live Link 
+    </a> 
+ </b></h3>   
+
+<h4 align="center">
+  <b>Real-world knitwear e-commerce platform featuring secure checkout, scalable order APIs, and a carefully crafted, minimalist interface designed for an elegant and intuitive shopping experience. Built with accessibility (WCAG 2.1), performance, and clean architecture at its core.</b></h4>
+<p align="center">
+<img 
+    src="https://github.com/kseniiaross/kseniiaross/raw/main/assets/tresse-onlie-store.gif"
+    alt="Tresse Demo"
+    width="540" />
+</p>
+
+
 <h3 align="center"><b>TRESSE Online Store |
   <a href="https://www.tressehandmade.com" target="_blank">
       Live Link 
