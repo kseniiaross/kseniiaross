@@ -76,7 +76,7 @@ Supports instant messaging, custom rooms, reactions, and a polished animated UI.
   </b>
 </h3>
 
-<h4 align="center"><b>Welcome to Pokémon Adventure, an interactive web application that allows you to explore the world of Pokémon. This application provides detailed information about your favorite Pokémon, including their abilities, types, and evolutionary paths. Additionally, you can simulate battles to see how your Pokémon perform in combat. </b></h4>
+<h4 align="center"><b>Interactive Pokémon explorer built with vanilla JS and the PokéAPI. Features detailed stats, abilities, evolutionary paths, and a battle simulator — all rendered dynamically from a live API.. </b></h4>
 <p align="center">
   <img 
     src="https://github.com/kseniiaross/kseniiaross/raw/main/assets/pokemon_demo.gif"
