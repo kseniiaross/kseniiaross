@@ -76,7 +76,7 @@ Supports instant messaging, custom rooms, reactions, and a polished animated UI.
   </b>
 </h3>
 
-<h4 align="center"><b>Interactive Pokémon explorer built with vanilla JS and the PokéAPI. Features detailed stats, abilities, evolutionary paths, and a battle simulator — all rendered dynamically from a live API.. </b></h4>
+<h4 align="center"><b>Interactive Pokémon explorer powered by the PokéAPI. Features detailed stats, abilities, evolutionary paths, and a turn-based battle simulator — all rendered dynamically from a live API with Bootstrap and clean ES6 JavaScript. </b></h4>
 <p align="center">
   <img 
     src="https://github.com/kseniiaross/kseniiaross/raw/main/assets/pokemon_demo.gif"
