@@ -23,7 +23,7 @@
 <p align="center">
 <img 
     src="https://github.com/kseniiaross/kseniiaross/raw/main/assets/kfursenko_candle_store.gif"
-    alt="Tresse Demo"
+    alt="KFursenko Demo"
     width="540" />
 </p>
 
