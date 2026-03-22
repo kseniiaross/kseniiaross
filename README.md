@@ -19,7 +19,7 @@
  </b></h3>   
 
 <h4 align="center">
-  <b>Real-world candle e-commerce platform featuring secure checkout, scalable order APIs, and a refined minimalist interface designed for an elegant and intuitive shopping experience. The platform includes an AI Sales Assistant that helps customers discover products, navigate the catalog, and receive personalized suggestions. Built with accessibility (WCAG 2.1), performance, and clean architecture at its core, with responsive design and a polished customer journey from product discovery to checkout.</b></h4>
+  <b>Real-world candle e-commerce platform featuring secure checkout, scalable order APIs, and a refined minimalist interface designed for an elegant and intuitive shopping experience. The platform includes an AI Sales Assistant that helps customers discover products, navigate the catalog, and receive personalized suggestions. Built with accessibility WCAG 2.1 / Section 508 compliant, performance, and clean architecture at its core, with responsive design and a polished customer journey from product discovery to checkout.</b></h4>
 <p align="center">
 <img 
     src="https://github.com/kseniiaross/kseniiaross/raw/main/assets/tresse-onlie-store.gif"
@@ -35,7 +35,7 @@
  </b></h3>   
 
 <h4 align="center">
-  <b>Real-world knitwear e-commerce platform featuring secure checkout, scalable order APIs, and a carefully crafted, minimalist interface designed for an elegant and intuitive shopping experience. Built with accessibility (WCAG 2.1), performance, and clean architecture at its core.</b></h4>
+  <b>Real-world knitwear e-commerce platform featuring secure checkout, scalable order APIs, and a carefully crafted, minimalist interface designed for an elegant and intuitive shopping experience. Built with accessibility WCAG 2.1 / Section 508 compliant, performance, and clean architecture at its core.</b></h4>
 <p align="center">
 <img 
     src="https://github.com/kseniiaross/kseniiaross/raw/main/assets/tresse-onlie-store.gif"
