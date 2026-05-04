@@ -19,7 +19,7 @@
  </b></h3>   
 
 <h4 align="center">
-  <b>Real-world candle e-commerce platform with secure checkout, scalable order APIs, and an AI Sales Assistant for personalized product discovery. Built with WCAG 2.1 / Section 508 compliance, responsive design, and a polished customer journey from discovery to checkout..</b></h4>
+  <b>Real-world candle e-commerce platform featuring AI-powered search and an AI Sales Assistant for personalized product discovery. Built with secure checkout, scalable order APIs, and WCAG 2.1 / Section 508 accessibility. Achieved Lighthouse scores of 100 in performance and accessibility, delivering a fast, inclusive, and production-ready user experience.</b></h4>
 <p align="center">
 <img 
     src="https://github.com/kseniiaross/kseniiaross/raw/main/assets/kfursenko_candle_store.gif"
