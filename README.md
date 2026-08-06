@@ -43,7 +43,22 @@
     width="540" />
 </p>
 
-
+<h3 align="center"><b>TaskPilot |
+  <a href="https://taskpilot1.vercel.app" target="_blank">
+      Live Link 
+    </a> |
+     <a href="https://github.com/kseniiaross/taskpilot" target="_blank">
+      GitHub Link
+    </a>
+ </b></h3>
+<h4 align="center"><b>A full-featured task and project management dashboard built with React, TypeScript, and Vite.
+Supports multi-workspace organization, drag-and-drop task boards, and real-time productivity analytics.</b></h4>
+<p align="center">
+<img 
+    src="https://github.com/kseniiaross/kseniiaross/raw/main/assets/taskpilot.gif"
+    alt="TaskPilot Demo"
+    width="540" />
+</p>
 
 
 <h3 align="center"><b>Real-Time Chat App |
