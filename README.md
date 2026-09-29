@@ -38,7 +38,7 @@
   <b>A full-stack knitwear store built for real-world use — featuring secure checkout, scalable order APIs, and a carefully crafted minimalist interface. Built with WCAG 2.1 / Section 508 compliance, clean architecture, and an intuitive shopping experience from browsing to checkout.</b></h4>
 <p align="center">
 <img 
-    src="https://github.com/kseniiaross/kseniiaross/raw/main/assets/tresse-onlie-store.gif"
+    src="https://github.com/kseniiaross/kseniiaross/raw/main/assets/tresse.gif"
     alt="Tresse Demo"
     width="540" />
 </p>
