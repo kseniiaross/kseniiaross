@@ -19,7 +19,7 @@
  </b></h3>   
 
 <h4 align="center">
-  <b>Real-world candle e-commerce platform featuring AI-powered search and an AI Sales Assistant for personalized product discovery. Built with secure checkout, scalable order APIs, and WCAG 2.1 / Section 508 accessibility. Achieved Lighthouse scores of 100 in performance and accessibility, delivering a fast, inclusive, and production-ready user experience.</b></h4>
+  <b>The online shop for a handmade candle studio: browse by scent and collection, choose a size, and ask Lumière, the in-page assistant - what suits a quiet evening or a gift. React and TypeScript on the front, Django REST and PostgreSQL behind it, with Stripe payments, live USPS shipping rates and four interface languages.</b></h4>
 <p align="center">
 <img 
     src="https://github.com/kseniiaross/kseniiaross/raw/main/assets/kfcandle.gif"
